@@ -1,2 +1,2 @@
 # news-aplicacion
-Aplicación web hecha con Laravel y Vuejs
+Aplicación web hecha con Vuejs y Nuztjs
